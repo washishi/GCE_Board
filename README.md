@@ -11,20 +11,17 @@ A board for growing cat ear LED
 - [タカオさん版ｽﾀｯｸﾁｬﾝｹｰｽ](https://mongonta.booth.pm/)に取り付けたまま使うことができます  
   (サーボ接続機能はないのでTakaoBaseを併用してください)
 
-<img src="docs/images/IMG_20250702_212411.jpg" width="300px" height="280px">
-<img src="docs/images/IMG_20250702_212422.jpg" width="300px" height="280px"><br>  
-<img src="docs/images/IMG20250702211959.jpg" width="300px" height="280px">  
-<img src="docs/images/IMG20250702213122.jpg" width="300px" height="280px"><br>  
+<img src="docs/images/IMG_20250702_212411.jpg" width="300px" height="280px"><img src="docs/images/IMG_20250702_212422.jpg" width="300px" height="280px"><br>  
+<img src="docs/images/IMG20250702211959.jpg" width="300px" height="280px"><img src="docs/images/IMG20250702213122.jpg" width="300px" height="280px"><br>  
 <br>  
 
 ## 各部の説明
-<img src="docs/images/GCE_Board1.png" width="300px" height="280px">
-<img src="docs/images//GCE_Board2.png" width="300px" height="280px"><br>  
+<img src="docs/images/GCE_Board1.png" width="300px" height="280px"><img src="docs/images//GCE_Board2.png" width="300px" height="280px"><br>  
   1. M-BUSピンヘッダ M5Coreへ接続します<br>
 　Core2の裏蓋の上に取り付ける場合はそのまま<br>
 　Core2の裏蓋を外す場合や他のCoreやLLM等のモジュールの裏につける場合は<br>
 　付属の治具を使いピンヘッダを丁度よい長さに切断します<br>
-　<img src="docs/images//CUT.png" width="200px" >
+　<img src="docs/images//Cut.png" width="200px" >
 <br>
 <br>
 <br>
